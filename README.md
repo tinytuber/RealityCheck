@@ -1,1 +1,2 @@
 # RealityCheck
+> This project has users rate whether they believe a picture is real or AI-generated. They will be exposed to a series of pictures and receive a score at the end. Real pictures have been sourced online. AI-generated photographs are generated from various LLM's.

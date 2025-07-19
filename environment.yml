@@ -1,0 +1,6 @@
+name: reality-check
+channels:
+  - conda-forge
+dependencies:
+  - nodejs=18.*        # your Next.js runtime
+  - python=3.10        # only if you have any Python-based tooling

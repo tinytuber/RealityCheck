@@ -1,0 +1,23 @@
+[
+    { "id": "1", "url": "/images/chris-weiher-8Fi7DDs6mQU-unsplash.jpg", "label": "Real" },
+    { "id": "2", "url": "/images/dannielle-zand-te-miranda-1wv3AghfQ2I-unsplash.jpg", "label": "Real" },
+    { "id": "3", "url": "/images/dithira-hettiarachchi-H9kyXR6IP14-unsplash.jpg", "label": "Real" },
+    { "id": "4", "url": "/images/elist-nguyen-c0z27zZ69eY-unsplash.jpg", "label": "Real" },
+    { "id": "5", "url": "/images/fajruddin-mudzakkir-EIM_JWax388-unsplash.jpg", "label": "Real" },
+    { "id": "6", "url": "/images/maxim-romanyuk-Mece81fY8mk-unsplash.jpg", "label": "Real" },
+    { "id": "7", "url": "/images/polina-kuzovkova--8fkkDt0cOs-unsplash.jpg", "label": "Real" },
+    { "id": "8", "url": "/images/rebecca-chandler-z6Yn9hhlrJw-unsplash.jpg", "label": "Real" },
+    { "id": "9", "url": "/images/slava-auchynnikau-GHbwG9FfIOY-unsplash.jpg", "label": "Real" },
+    { "id": "10", "url": "/images/stephan-sorkin-H-YWtDCdMIc-unsplash.jpg", "label": "Real" },
+    { "id": "11", "url": "/images/model_midjourney6.webp",  "label": "AI", "model": "Midjourney 6"},
+    { "id": "12", "url": "/images/hiking_flux1.1_pro.webp",  "label": "AI", "model": "Flux 1.1 Pro"},
+    { "id": "13", "url": "/images/house_openjourney4.webp",  "label": "AI", "model": "Openjourney 4"},
+    { "id": "14", "url": "/images/car_sorav1.webp",  "label": "AI", "model": "Sora V1"},
+    { "id": "15", "url": "/images/house_midjourney7.webp",  "label": "AI", "model": "Midjourney 7"},
+    { "id": "16", "url": "/images/nature_flux1.webp",  "label": "AI", "model": "Flux.1"},
+    { "id": "17", "url": "/images/castle_flux_1.1_pro_ultra.webp",  "label": "AI", "model": "Flux 1.1 Pro Ultra"},
+    { "id": "18", "url": "/images/vase_flux_1.1_pro.webp",  "label": "AI", "model": "Flux 1.1 Pro"},
+    { "id": "19", "url": "/images/00033-3174900282-photorealistic zenke2, skiny, dying (from_above_1.32) (sitting_1.2) black_hairs , Messy_hair , future era, futuristic, black spa.png",  "label": "AI", "model": "Stable Diffusion 1.5", "ft": "UnstableInkDream v6"},
+    { "id": "20", "url": "/images/girl_stablediffusion1.5.png",  "label": "AI", "model": "Stable Diffusion 1.5", "ft":"Protogen v2.2"}
+  ]
+  

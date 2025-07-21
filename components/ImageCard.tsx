@@ -1,5 +1,5 @@
 import React from 'react';
-import { ImageItem } from '../public/images/';
+import { ImageItem } from '/data/images.json';
 
 interface Props {
   image: ImageItem;

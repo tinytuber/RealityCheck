@@ -9,7 +9,7 @@
     { "id": "8", "url": "/images/rebecca-chandler-z6Yn9hhlrJw-unsplash.jpg", "label": "Real" },
     { "id": "9", "url": "/images/slava-auchynnikau-GHbwG9FfIOY-unsplash.jpg", "label": "Real" },
     { "id": "10", "url": "/images/stephan-sorkin-H-YWtDCdMIc-unsplash.jpg", "label": "Real" },
-    { "id": "11", "url": "/images/model_midjourney6.webp",  "label": "AI", "model": "Midjourney 6"},
+    { "id": "11", "url": "/images/model1_midjourney6.webp",  "label": "AI", "model": "Midjourney 6"},
     { "id": "12", "url": "/images/hiking_flux1.1_pro.webp",  "label": "AI", "model": "Flux 1.1 Pro"},
     { "id": "13", "url": "/images/house_openjourney4.webp",  "label": "AI", "model": "Openjourney 4"},
     { "id": "14", "url": "/images/car_sorav1.webp",  "label": "AI", "model": "Sora V1"},
